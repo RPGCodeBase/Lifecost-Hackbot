@@ -1,0 +1,9 @@
+Lifecost-Hackbot - A simple multiplayer game about hacking implemented as a jabber-bot.
+The bot depends on the global billing system -- see Lifecost project for the details.
+
+Copyright (c) 2011
+Alexey Fedoseev (aleksey@fedoseev.net)
+Rostislav Kondratenko (grostik@gmail.com)
+Kirill Morarenko (m0riarty@ya.ru)
+http://lifecost.tv
+
